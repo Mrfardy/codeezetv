@@ -1,0 +1,110 @@
+#EXTM3U#EXTINF:-1,UK FHD | Sky Sports Action FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50189.ts
+#EXTINF:-1,UK FHD | Sky Sports Arena FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50188.ts
+#EXTINF:-1,UK FHD | Sky Sports Cricket FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50187.ts
+#EXTINF:-1,UK FHD | Sky Sports F1 FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50186.ts
+#EXTINF:-1,UK FHD | Sky Sports Football FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50185.ts
+#EXTINF:-1,UK FHD | Sky Sports Golf FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50184.ts
+#EXTINF:-1,UK FHD | Sky Sports Main Event FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50183.ts
+#EXTINF:-1,UK FHD | Sky Sports Mix FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50182.ts
+#EXTINF:-1,UK FHD | Sky Sports News FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50181.ts
+#EXTINF:-1,UK FHD | Sky Sports Premier League FHD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50180.ts
+#EXTINF:-1,UK HD | Sky Sports Action HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50179.ts
+#EXTINF:-1,UK HD | Sky Sports Arena HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50178.ts
+#EXTINF:-1,UK HD | Sky Sports Cricket HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50177.ts
+#EXTINF:-1,UK HD | Sky Sports F1 HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50176.ts
+#EXTINF:-1,UK HD | Sky Sports Football HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50175.ts
+#EXTINF:-1,UK HD | Sky Sports Golf HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50174.ts
+#EXTINF:-1,UK HD | Sky Sports Main Event HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50173.ts
+#EXTINF:-1,UK HD | Sky Sports Mix HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50172.ts
+#EXTINF:-1,UK HD | Sky Sports News HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50171.ts
+#EXTINF:-1,UK HD | Sky Sports Premier League HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50170.ts
+#EXTINF:-1,UK SD | Sky Sports Action SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50169.ts
+#EXTINF:-1,UK SD | Sky Sports Arena SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50168.ts
+#EXTINF:-1,UK SD | Sky Sports Cricket SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50167.ts
+#EXTINF:-1,UK SD | Sky Sports F1 SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50166.ts
+#EXTINF:-1,UK SD | Sky Sports Football SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50165.ts
+#EXTINF:-1,UK SD | Sky Sports Golf SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50164.ts
+#EXTINF:-1,UK SD | Sky Sports Main Event SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50163.ts
+#EXTINF:-1,UK SD | Sky Sports Mix SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50162.ts
+#EXTINF:-1,UK SD | Sky Sports News SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50161.ts
+#EXTINF:-1,UK SD | Sky Sports Premier League SD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/50160.ts
+#EXTINF:-1,Bt Sport 1 HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/14391.ts
+#EXTINF:-1,Bt Sport 2 HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/17508.ts
+#EXTINF:-1,Bt Sport 3 HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/16934.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/15152.ts
+#EXTINF:-1,BT Sport 1
+http://iptv.vipstreams.xyz:8000/live/nic/nic/13846.ts
+#EXTINF:-1,BT Sport 2
+http://iptv.vipstreams.xyz:8000/live/nic/nic/13809.ts
+#EXTINF:-1,BT Sport 3
+http://iptv.vipstreams.xyz:8000/live/nic/nic/13877.ts
+#EXTINF:-1,Bt Sports Espn
+http://iptv.vipstreams.xyz:8000/live/nic/nic/16910.ts
+#EXTINF:-1,Box Nation
+http://iptv.vipstreams.xyz:8000/live/nic/nic/16943.ts
+#EXTINF:-1,EIR SPORTS 1 HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/16931.ts
+#EXTINF:-1,EIR SPORTS 2 HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/16930.ts
+#EXTINF:-1,CHELSEA TV
+http://iptv.vipstreams.xyz:8000/live/nic/nic/22127.ts
+#EXTINF:-1,LFC TV
+http://iptv.vipstreams.xyz:8000/live/nic/nic/22126.ts
+#EXTINF:-1,MUFC TV
+http://iptv.vipstreams.xyz:8000/live/nic/nic/16926.ts
+#EXTINF:-1,Premier Sports HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/13955.ts
+#EXTINF:-1,Eurosport 1 HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/13581.ts
+#EXTINF:-1,Eurosport 2 HD
+http://iptv.vipstreams.xyz:8000/live/nic/nic/16928.ts
+#EXTINF:-1,At The Races
+http://iptv.vipstreams.xyz:8000/live/nic/nic/13736.ts
+#EXTINF:-1,Racing UK
+http://iptv.vipstreams.xyz:8000/live/nic/nic/16694.ts
+#EXTINF:-1,ABERDEEN FC TV
+http://iptv.vipstreams.xyz:8000/live/nic/nic/62699.ts
+#EXTINF:-1,CELTIC FC TV
+http://iptv.vipstreams.xyz:8000/live/nic/nic/62701.ts
+#EXTINF:-1,DUNDEE FC TV
+http://iptv.vipstreams.xyz:8000/live/nic/nic/62698.ts
+#EXTINF:-1,HEARTS FC TV
+http://iptv.vipstreams.xyz:8000/live/nic/nic/62697.ts
+#EXTINF:-1,HIBS TV
+http://iptv.vipstreams.xyz:8000/live/nic/nic/62700.ts
+#EXTINF:-1,RANGERS TV
+http://iptv.vipstreams.xyz:8000/live/nic/nic/62702.ts
