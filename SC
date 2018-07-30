@@ -63,3 +63,4 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/85019.ts
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/74521.ts
 #EXTINF:-1,UK: CHELSEA TV HD
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/104880.ts
+
