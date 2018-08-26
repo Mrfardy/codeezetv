@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Fardy® ? BEIN SPORTS 3 HD TH
-http://5.79.87.234:8278/bein3_pat/playlist.m3u8
-#EXTINF:-1,Fardy® ? BEIN SPORTS 4 HD TH
-http://5.79.87.234:8278/bein4_pat/playlist.m3u8
 #EXTINF:-1,Fardy® ? SKY SPORTS PREMIER LEAGUE
 http://163.172.43.30:8081/live/skpre/playlist.m3u8
 #EXTINF:-1,Fardy® ? SKY SPORTS FOOTBALL
