@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>SKYNET HD TH
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=12329665&tsum=4f8b18e8836e5a47a1f295759fe87dde
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>BEIN 1 HD TH
 http://103.89.176.45:8278/bein1_pat/playlist.m3u8?tid=16376578&tsum=9fe19df756917be44aae74223e264a82
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",ASTRO SUPERSPORT LIVE HD 
